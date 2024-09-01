@@ -5,7 +5,7 @@
     "link": "https://blogs.vg/"
   },
   {
-    "icon": "Alist",
+    "icon": "Cloud",
     "name": "网盘",
     "link": "https://alist.men"
   },
@@ -15,7 +15,7 @@
     "link": "https://nezha.be/"
   },
   {
-    "icon": "V2Board",
+    "icon": "YoutubeSearchedForFilled",
     "name": "你懂的 ~",
     "link": "https://panel.vvv.vg/"
   },
@@ -25,17 +25,17 @@
     "link": "https://book.gn.mk/"
   },
   {
-    "icon": "Linux-Learn",
+    "icon": "Linux",
     "name": "Linux-Learn",
     "link": "https://learn.linux.edu.kg/"
   },
   {
-    "icon": "Linux-Instance",
+    "icon": "Linux",
     "name": "Linux-Instance",
     "link": "https://instance.linux.edu.kg"
   },
   {
-    "icon": "Notepad",
+    "icon": "Notepad12Regular",
     "name": "Notepad",
     "link": "https://Notepad.nom.mk"
   }
