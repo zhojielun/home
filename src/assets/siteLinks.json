@@ -11,13 +11,8 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测,别名:哪吒探针",
+    "name": "站点监测",
     "link": "https://nezha.be/"
-  },
-  {
-    "icon": "Angellist",
-    "name": "你懂的 ~",
-    "link": "https://panel.vvv.vg/"
   },
   {
     "icon": "Book",
@@ -38,5 +33,30 @@
     "icon": "StickyNoteRegular",
     "name": "Notepad",
     "link": "https://Notepad.nom.mk"
+  },
+  {
+    "icon": "FilePdf",
+    "name": "PDF工具栏",
+    "link": "https://pdf.nom.mk"
+  },
+  {
+    "icon": "Edge",
+    "name": "Search",
+    "link": "https://search.nom.mk"
+  },
+  {
+    "icon": "Image",
+    "name": "个人图床",
+    "link": "https://image.nom.mk"
+  },
+  {
+    "icon": "Image",
+    "name": "个人图床",
+    "link": "https://image.nom.mk"
+  },
+  {
+    "icon": "Angellist",
+    "name": "你懂的 ~",
+    "link": "https://panel.vvv.vg/"
   }
 ]
